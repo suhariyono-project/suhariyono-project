@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akh. suhariyono
 - 👀 I’m interested in "Project management Office, Data visualization, and Welding NDT"
-- 🌱 I’m currently learning "Python, Revit, Javascript, C#, Power BI developer"
+- 🌱 I’m currently learning "Primavera P6, Microsoft project, Python, Revit, AutoCad, Javascript, C#, Power BI developer"
 - 💞️ I’m looking to collaborate on "data visualization"
 - 📫 How to reach me : email : suhariyono.project@gmail.com
 
